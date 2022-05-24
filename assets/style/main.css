@@ -1,0 +1,146 @@
+/* ============= SECTION HEADER START ============= */
+
+.P-main-wrapper {
+    width: 100%;
+    height: 100vh;
+}
+
+.P-header-title {
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    padding: 10px 0;
+}
+
+.P-header-vertical-line {
+    width: 200px;
+    height: 2px;
+    background-color: rgb(138, 26, 26);
+    margin: 5px 0;
+}
+
+.P-header-text {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding: 5px 0;
+}
+
+
+/* ============= SECTION HEADER START ============= */
+
+/* ------------------------------------------------ */
+
+/* ============= SECTION lOREM IPSUM END ============= */
+
+
+.P-lorem-ipsum {
+    width: 600px;
+    padding: 0 20px;
+}
+
+.P-lorem-title {
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.P-lorem-text {
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px 0;
+
+}
+
+.P-lorem-image {
+    width: 600px;
+    height: 400px;
+}
+
+
+/* ============= SECTION lOREM IPSUM END ============= */
+
+/* ------------------------------------------------ */
+
+/* --- PORTFOLIO START --- */
+
+.P-portflio {
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 40px 0;
+}
+
+/* --- PORTFOLIO END --- */
+
+/* ------------------------------------------------ */
+
+/* ============= SECTION FLEX ITEMS START ============= */
+
+.P-flex-item {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.P-flex-item-image {
+    width: 400px;
+    height: 400px;
+    margin: 15px 0 50px;
+}
+
+/* ============= SECTION FLEX ITEMS END ============= */
+
+/* ------------------------------------------------ */
+
+/* ============= FOOTER START ============= */
+/* FOOTER INFO */
+.P-footer-info {
+    width: 100%;
+    background-color: #42484c;
+    padding: 10px;
+
+}
+.P-footer-title {
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding: 10px 0;
+}
+.P-footer-text {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    padding: 10px 5px 5px;
+}
+.P-footer-lorem {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-top: 15px;
+}
+
+/* FOOTER SOCIAL NETWORKS */
+
+.P-footer-svg {
+    width: 45px;
+    height: 45px;
+    margin: 10px;
+    fill: #42484c;
+    cursor: pointer;
+}
+
+.P-footer-svg-icons {
+    text-align: center;
+}
+
+.P-footer-template {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 15px 0 30px;
+}
+
+.P-footer-template a {
+    color: #337ab7;
+}
+
+/* ============= FOOTER END ============= */
